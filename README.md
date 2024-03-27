@@ -53,7 +53,7 @@ $ python skeleton_main.py --input_dir './dataset/WQ' --output_dir './output' --m
 ```
 * To infer and acquire the generated skeleton on the test dataset (i.e., './dataset/WQ/predict_test_skeleton.txt'), execute:
 ```
-$ python Soft_Bart_main.py --isTrain False --input_dir './dataset/WQ' --output_dir 'output' --model_name_or_path 'facebook/bart-base' --batch_size 16 
+$ python skeleton_main.py --isTrain False --input_dir './dataset/WQ' --output_dir 'output' --model_name_or_path 'facebook/bart-base' --batch_size 16 
 ```
 ## 2. To infer on GPT-3.5 (e.g., text-davinci-003) to obtain the generated questions, execute:
 ```
