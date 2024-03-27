@@ -1,3 +1,7 @@
+SGSH
+====
+The Pytorch implementation of SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation(NAACL 2024 Findings).
+
 # Requirements
 ## 1. Environments
 * Create a virtual environment by running the following command:
