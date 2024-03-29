@@ -5,7 +5,7 @@ import backoff
 import argparse
 
 
-openai.api_key="xxxxx"  #### This is openai api_key
+openai.api_key="xxxxx"  #### "xxxxx" is openai api_key
 
 
 ##### chatgpt ####
